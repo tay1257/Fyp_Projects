@@ -202,6 +202,6 @@ MIT — free to use, modify, and distribute with attribution.
 ---
 
 <p align="center">
-  🎣 Intelligent PhishMail Analyzer &nbsp;·&nbsp; Stay safe. Scan first. &nbsp;·&nbsp; Powered by Claude
+  🎣 Intelligent PhishMail Analyzer &nbsp;·&nbsp; Stay safe. Scan first.
 
 </p>
