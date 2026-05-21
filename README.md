@@ -1,4 +1,4 @@
-# 🎣 PhishGuard AI
+# 🎣 Intelligent PhishMail Analyzer
 
 > **AI-Powered Email Phishing Detection & Threat Analyzer**  
 > Scan email headers, body, and metadata — detect phishing threats using ML pattern matching and AI reasoning.
@@ -12,13 +12,13 @@
 
 ## 🔗 Live Preview
 
-**[→ Open PhishGuard AI](#)** ← *(replace with your Medo link)*
+**[→ Open Intelligent PhishMail Analyzer](#)** ← *(replace with your Medo link)*
 
 ---
 
-## 📖 What is PhishGuard AI?
+## 📖 What is Intelligent PhishMail Analyzer?
 
-PhishGuard AI is an intelligent email phishing detection tool that analyzes raw email content — headers, body, links, and metadata — to identify phishing attempts, social engineering tactics, and malicious patterns.
+Intelligent PhishMail Analyzer is an intelligent email phishing detection tool that analyzes raw email content — headers, body, links, and metadata — to identify phishing attempts, social engineering tactics, and malicious patterns.
 
 Paste any email into the analyzer and the AI cross-references it against known phishing signatures, ML-trained threat patterns from historical vulnerabilities, and live heuristic checks to give you a full threat assessment in seconds.
 
@@ -119,8 +119,8 @@ Step 6 → Full breakdown report generated with per-indicator explanations
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/phishguard-ai.git
-cd phishguard-ai
+git clone https://github.com/your-username/intelligent-phishmail-analyzer.git
+cd intelligent-phishmail-analyzer
 
 # Install dependencies
 npm install
@@ -150,7 +150,7 @@ npm run dev
 
 ---
 
-## 📧 Example — What a Phishing Email Looks Like to PhishGuard
+## 📧 Example — What a Phishing Email Looks Like to Intelligent PhishMail Analyzer
 
 ```
 From: security@paypa1.com          ← lookalike domain (1 instead of l)
@@ -164,7 +164,7 @@ to verify your identity or your account will be closed in 24 hours.
 [Verify Now] → http://bit.ly/3xR9q2k (redirect to credential harvester)
 ```
 
-**PhishGuard detects:**
+**Intelligent PhishMail Analyzer detects:**
 - Lookalike domain `paypa1.com` → CRITICAL
 - Reply-To mismatch (`.ru` domain) → HIGH
 - Urgency language ("URGENT", "IMMEDIATELY", "24 hours") → HIGH
@@ -202,5 +202,6 @@ MIT — free to use, modify, and distribute with attribution.
 ---
 
 <p align="center">
-  🎣 PhishGuard AI &nbsp;·&nbsp; Stay safe. Scan first. &nbsp;·&nbsp; Powered by Claude
+  🎣 Intelligent PhishMail Analyzer &nbsp;·&nbsp; Stay safe. Scan first. &nbsp;·&nbsp; Powered by Claude
+
 </p>
