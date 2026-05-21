@@ -12,7 +12,7 @@
 
 ## 🔗 Live Preview
 
-**[→ Open Intelligent PhishMail Analyzer](#)** ← *(replace with your Medo link)*
+**[→ Open Intelligent PhishMail Analyzer](#)**
 
 ---
 
@@ -146,7 +146,7 @@ npm run dev
 | ML Patterns | Historical phishing vulnerability dataset |
 | Header Parsing | Custom email header parser |
 | API | Anthropic `/v1/messages` |
-| Deployment | [Medo.dev](https://medo.dev) |
+| Deployment |
 
 ---
 
